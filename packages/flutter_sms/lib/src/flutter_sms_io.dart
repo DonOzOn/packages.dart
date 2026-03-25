@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:flutter_sms/src/messages.g.dart';
+import 'package:send_sms_handle/src/messages.g.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'flutter_sms_interface.dart';
