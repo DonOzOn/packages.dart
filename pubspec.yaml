@@ -8,9 +8,4 @@ dev_dependencies:
   flutter_lints: ^6.0.0
 
 workspace:
-  - packages/flutter_vibrate
   - packages/flutter_sms
-  - packages/flutter_whatsnew
-  - packages/breakpoint
-  - packages/app_review
-  - packages/undo
