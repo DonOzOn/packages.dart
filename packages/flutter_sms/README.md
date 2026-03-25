@@ -13,17 +13,17 @@ Flutter Plugin for sending SMS and MMS on Android and iOS. If you send to more t
 
 ### Install
 
-Add `flutter_sms` as a dependency in your `pubspec.yaml` file.
+Add `send_sms_handle` as a dependency in your `pubspec.yaml` file.
 
 ```yaml
 dependencies:
-  flutter_sms: ^3.0.0
+  send_sms_handle: ^1.0.0
 ```
 
 ### Import
 
 ```dart
-import 'package:flutter_sms/flutter_sms.dart';
+import 'package:send_sms_handle/send_sms_handle.dart';
 ```
 
 ### Example
