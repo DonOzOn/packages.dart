@@ -17,7 +17,7 @@ Add `send_sms_handle` as a dependency in your `pubspec.yaml` file.
 
 ```yaml
 dependencies:
-  send_sms_handle: ^1.0.0
+  send_sms_handle: ^1.0.2
 ```
 
 ### Import
