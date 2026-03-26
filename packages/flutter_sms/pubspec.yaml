@@ -1,6 +1,6 @@
 name: send_sms_handle
 description: A Flutter plugin to send SMS and MMS on iOS and Android.
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/DonOzOn/packages.dart
 repository: https://github.com/DonOzOn/packages.dart
 maintainer: DonOzOn
