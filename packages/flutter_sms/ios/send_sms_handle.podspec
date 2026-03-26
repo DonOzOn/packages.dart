@@ -1,9 +1,9 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint flutter_sms.podspec' to validate before publishing.
+# Run `pod lib lint send_sms_handle.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_sms'
+  s.name             = 'send_sms_handle'
   s.version          = '1.1.0'
   s.summary          = 'A Flutter plugin for Sending SMS on Android and iOS.'
   s.description      = <<-DESC
